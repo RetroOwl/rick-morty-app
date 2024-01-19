@@ -2,7 +2,6 @@
   "name": "rick-morty-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://RetroOwl.github.io/rick-morty-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
